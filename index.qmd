@@ -1,0 +1,13 @@
+# Preface {.unnumbered}
+
+The white dolphin is critically endangered.
+
+![](cover.png)
+
+![Here a dolphin.](https://upload.wikimedia.org/wikipedia/commons/f/f1/Pacific_white-sided_dolphins_%2528Lagenorhynchus_obliquidens%2529_NOAA.jpg)
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+```{r}
+1 + 1
+```

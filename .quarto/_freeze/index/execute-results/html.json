@@ -1,0 +1,16 @@
+{
+  "hash": "b0c9ca903037d3d4cea22da6cbb41873",
+  "result": {
+    "markdown": "# Preface {.unnumbered}\n\nThe white dolphin is critically endangered.\n\n![](cover.png)\n\n![Here a dolphin.](https://upload.wikimedia.org/wikipedia/commons/f/f1/Pacific_white-sided_dolphins_%2528Lagenorhynchus_obliquidens%2529_NOAA.jpg)\n\nTo learn more about Quarto books visit <https://quarto.org/docs/books>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
